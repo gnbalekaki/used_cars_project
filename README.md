@@ -1,4 +1,5 @@
- ## Practical Application Assignment 11.1: What Drives the Price of a Car?
+## README: Basic Report to a practical application (used car data problem) 
+## What Drives the Price of a Car?
  The project consists of an original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure speed of processing. The goal is to understand what factors make a car more or less expensive. As a result of our analysis,  provides clear recommendations to clients or a used car dealership or as to what consumers value in a used car.
 
 To frame the task, throughout these practical applications we will refer back to a standard process in industry for data projects called CRISP-DM. This process provides a framework for working through a data problem. 
