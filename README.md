@@ -10,12 +10,12 @@ To frame the task, throughout these practical applications we will refer back to
     
  ## Model Features: 
  Considered three independent variables and one target variable
- independent variables
- * year
- * manufacturer
- * odometer
- Target variables
- * price
+* independent variables
+  * year
+  * manufacturer
+  * odometer
+* Target variables
+  * price
 
  ## Findings:
 From our analysis, the year shows a strong correlation with price compared to odometer reading or manufacturer features. This implies that recently manufactured vehicles are likely to cost more than older cars.
